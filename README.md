@@ -5,7 +5,7 @@ The homework from lab06
 ## Usage
 In the root directory execute 
 ```bash
-npm bin
+node bin
 ``` 
 
 ## Testing
